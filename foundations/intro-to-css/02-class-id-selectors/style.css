@@ -1,0 +1,22 @@
+.odd-number {
+    color: #000;
+    background-color: rgb(245, 124, 110);
+    font-size: x-large;
+}
+
+ .odd-number#cooler {
+    font-size: xx-large;
+}
+
+#firstID {
+    color: rgb(18, 18, 226);
+    background-color: white;
+    font-size: xx-large;
+}
+
+
+#secondID {
+    color:#000;
+    background-color: rgb(11, 194, 11);
+    font-size: x-large;
+}
